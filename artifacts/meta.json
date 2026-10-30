@@ -1,0 +1,32 @@
+{
+  "features": [
+    "log_amt",
+    "hour_sin",
+    "hour_cos",
+    "dayofweek",
+    "tx_1h",
+    "tx_24h",
+    "amt_ratio_30d",
+    "gap_prev_s",
+    "dist_km",
+    "age",
+    "log_city_pop",
+    "cat_entertainment",
+    "cat_food_dining",
+    "cat_gas_transport",
+    "cat_grocery_net",
+    "cat_grocery_pos",
+    "cat_health_fitness",
+    "cat_home",
+    "cat_kids_pets",
+    "cat_misc_net",
+    "cat_misc_pos",
+    "cat_personal_care",
+    "cat_shopping_net",
+    "cat_shopping_pos",
+    "cat_travel"
+  ],
+  "threshold": 0.02031066082417965,
+  "c_alert": 5.0,
+  "k_ratio": 0.005
+}

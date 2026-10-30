@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+kaggle.json
+
+# Données brutes : trop lourdes, licence Kaggle à respecter
+data/*
+!data/.gitkeep
